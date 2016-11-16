@@ -1,6 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
+title: index page
 ---
+
+## 无门关
+
+春有百花秋有月, 夏有凉风冬有雪;<br/>
+若无闲事挂心头,便是人间好时节。
