@@ -6,6 +6,7 @@ body {
   font-family: Georgia, KaiTi, "楷体", STKaiti, "华文楷体", serif;
   height: 100%;
   line-height: 1.5;
+  color: #000;
 }
 
 .container {
@@ -25,4 +26,11 @@ body {
 .author {
   font-size: 16px;
   text-align: right;
+}
+
+.small {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
 }
